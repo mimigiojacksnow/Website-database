@@ -18,6 +18,6 @@ Once found, click on it and import the Blog_database.sql file.
 
 Once you have done so, you are able to begin creating accounts, blogs, and so forth.
 
-When creating the admin account, all you have to do is set leve id for admin to 1 through the admin page using XAMPP, all other accounts that are made do not need any further editing through the localhost page.
+When creating the admin account, click on the user table and select desire user you wish to become admin. Once you have found your user, click on edit and set their level to 1. All other accounts that are made do not need any further editing through the localhost page if you wish for them to be normal users.
 
 DO NOTE: This blogging website does not have email capabilities or anything of the sort. 
